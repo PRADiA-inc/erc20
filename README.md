@@ -1,9 +1,7 @@
 # ERC-20に準拠したトークン作成
 truffleでプロジェクト作成
 
-- 実装するメソッドとイベント
-
-    contruct PRADiA {
+    contruct PRADiAcoin {
         function totalSupply() constant returns (uint totalSupply);
         function balanceOf(address _owner) constant returns (uint balance);
         function transfer(address _to, uint _value) returns (bool success);
