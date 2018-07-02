@@ -9,5 +9,5 @@ truffleでプロジェクト作成
     }
 
 NOTE:
-`constant`はSolidity 0.4.18では、`pure`もしくは`view｀に変更されているので、注意
+`constant`はSolidity 0.4.18では、`pure`もしくは`view`に変更されているので、注意
 
